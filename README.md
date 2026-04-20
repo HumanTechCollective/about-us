@@ -14,13 +14,14 @@ Human Tech Collective exists to promote the idea that technology and organizatio
 
 ## Projects
 
-- [PyAssistant](https://github.com/Adavideo/pyassistant) - A personal AI assistant built in Python from scratch, as a learning project to understand how AI assistants work.
-- RAG Chatbot - A future generalized version of the [Gary's Economics chatbot](https://github.com/garyseconomics/chatbot), adapted to work with several types of documents (not just subtitles).
+- Chatbot - A future generalized version of the [Gary's Economics chatbot](https://github.com/garyseconomics/chatbot) adapted to be re-usable for other projects.
+- [MCP Server](https://github.com/HumanTechCollective/MCP_server) - A Model Context Protocol (MCP) server built with Python that serves agenda data for an event.
+- [PyAssistant](https://github.com/Adavideo/pyassistant) - A personal AI assistant built in Python from scratch.
 - [Debate Classifier](https://github.com/Adavideo/debate_classifier) - Master's thesis project: detecting discussion topics and opinion dynamics in online communities, using NLP and clustering techniques.
 
-## Who are we?
+## Team
 
-This is an initiative in its infancy. At this moment, [Carmen](profiles/Carmen_Bermejo.md) is collaborating with several people on a per-project basis. It is possible that in the future this will expand to become an organization (likely an association).
+This is an initiative in its infancy. At this moment, we are collaborating with several people on a per-project basis. It is possible that in the future this will expand to become an organization (likely an association).
 
 ## Contact
 
